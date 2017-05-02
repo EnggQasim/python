@@ -4,3 +4,5 @@ dj-static==0.0.6
 django-bootstrap3==6.2.2
 gunicorn==19.3.0
 static3==0.6.1
+static3==0.6.1
+psycopg2>=2.6.1
